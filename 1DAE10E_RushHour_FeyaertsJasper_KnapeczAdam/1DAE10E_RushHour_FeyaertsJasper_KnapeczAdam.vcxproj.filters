@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\PSD">
+      <UniqueIdentifier>{ba94d115-f2fe-487a-974d-a7faceb5639a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RushHour.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Car.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Core.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="structs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RushHour.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Car.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SDLWin32.props" />
+    <None Include="SDLx64.props" />
+    <None Include="Resources\PSD\browncar.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\darkgreen.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\darktealtruck.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\darkyellowcar.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\goldtruck.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\greencar.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\lavendertruck.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\lightgraycar.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\lightyellowcar.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\orangecar.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\purplecar.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\redcar.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\rosecar.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\turquoisecar.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\yellowcar.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\bluetruck.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\easy.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\expert.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\hard.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\medium.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\road.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+    <None Include="Resources\PSD\background.psd">
+      <Filter>Resource Files\PSD</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\trophy.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\bluetruck_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\bluetruck_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\browncar_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\browncar_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\darkgreencar_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\darkgreencar_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\darktealtruck_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\darktealtruck_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\darkyellowcar_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\darkyellowcar_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\goldtruck_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\goldtruck_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\greencar_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\greencar_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\lavendertruck_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\lavendertruck_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\lightgraycar_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\lightgraycar_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\lightyellowcar_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\lightyellowcar_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\mouse.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\orangecar_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\orangecar_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\purplecar_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\purplecar_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\redcar_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\redcar_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\rosecar_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\rosecar_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\turquoisecar_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\turquoisecar_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\yellowcar_hor.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\yellowcar_ver.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\colorcode.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\background.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\easy.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\expert.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\hard.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\medium.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\road.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\continue.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\background.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Resources\DIN-Light.otf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="Resources\Helvetica-Bold.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Resources\licence.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
