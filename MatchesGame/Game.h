@@ -1,0 +1,35 @@
+// Knapecz, Adam - 1DAE11
+#pragma once
+#include "MatchGameManager.h"
+using namespace utils;
+#pragma region gameInformation
+// Set your name and group in the title here
+std::string g_WindowTitle{"MatchesGame- Knapecz, Adam - 1DAE11"};
+
+// Change the window dimensions here
+float g_WindowWidth{600};
+float g_WindowHeight{300};
+#pragma endregion gameInformation
+
+
+#pragma region ownDeclarations
+// Declare your own global variables here
+MatchGameManager g_GameManager;
+// Declare your own functions here
+
+#pragma endregion ownDeclarations
+
+#pragma region gameFunctions
+void Start();
+void Draw();
+void Update(float elapsedSec);
+void End();
+#pragma endregion gameFunctions
+
+#pragma region inputHandling
+void OnKeyDownEvent(SDL_Keycode key);
+void OnKeyUpEvent(SDL_Keycode key);
+void OnMouseMotionEvent(const SDL_MouseMotionEvent& e);
+void OnMouseDownEvent(const SDL_MouseButtonEvent& e);
+void OnMouseUpEvent(const SDL_MouseButtonEvent& e);
+#pragma endregion inputHandling
