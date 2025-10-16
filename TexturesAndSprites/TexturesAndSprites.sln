@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TexturesAndSprites", "TexturesAndSprites.vcxproj", "{05EBC7E3-7161-4BFF-A6D5-61806BB10B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05EBC7E3-7161-4BFF-A6D5-61806BB10B48}.Debug|x64.ActiveCfg = Debug|x64
+		{05EBC7E3-7161-4BFF-A6D5-61806BB10B48}.Debug|x64.Build.0 = Debug|x64
+		{05EBC7E3-7161-4BFF-A6D5-61806BB10B48}.Debug|x86.ActiveCfg = Debug|Win32
+		{05EBC7E3-7161-4BFF-A6D5-61806BB10B48}.Debug|x86.Build.0 = Debug|Win32
+		{05EBC7E3-7161-4BFF-A6D5-61806BB10B48}.Release|x64.ActiveCfg = Release|x64
+		{05EBC7E3-7161-4BFF-A6D5-61806BB10B48}.Release|x64.Build.0 = Release|x64
+		{05EBC7E3-7161-4BFF-A6D5-61806BB10B48}.Release|x86.ActiveCfg = Release|Win32
+		{05EBC7E3-7161-4BFF-A6D5-61806BB10B48}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEC4A08B-0F76-4B39-ABC9-0EAD0C74CAFA}
+	EndGlobalSection
+EndGlobal
