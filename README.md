@@ -81,7 +81,7 @@ It’s shared mainly for **archival and educational purposes** — to document m
 Every week includes a **release build**, available in the [📦 Releases](../../releases) section.  
 Example: 
 
-`0programming_1-executables-10-1.0.0-windows-x64.zip`
+`programming_1-executables-10-1.0.0-windows-x64.zip`
 
 These are standalone builds created for each milestone week.
 
@@ -101,4 +101,5 @@ This repository is licensed under the **MIT License** — feel free to explore, 
 
 *Made with curiosity and too much coffee ☕  
 — Adam*
+
 
