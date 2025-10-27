@@ -1,27 +1,27 @@
-# 🎮 Programming 1 – Howest DAE (2022)
+# 🎮 Programming 1
 
 Hey there, fellow DAE student, curious visitor, or nostalgic programmer 👋  
-Welcome to my **Programming 1** repository — a small archive of everything I built during the **first semester (2022)** at **Digital Arts & Entertainment**, **Howest University**, **Kortrijk, Belgium**.
+Welcome to my **Programming 1** repository — a small archive of everything I built during the **first semester (2022)** at **DAE**.  
 
 ---
 
 ## 🗄️ About this repository
 
 This repo contains all **lab exercises** and **weekly projects** created during the **Programming 1** course.  
-It’s shared mainly for **archival and educational purposes** — to document my learning journey in C++ and basic game programming.
+It’s shared mainly for **archival and educational purposes** — to document my learning journey in C++ and basic game programming.  
 
 > ⚠️ Keep in mind: these projects were created as part of my learning process.  
 > Expect imperfections, beginner mistakes, and the occasional “what was I thinking?” moment.  
-> It’s all part of growth — consider this repo a **snapshot in time**.
+> It’s all part of growth — consider this repo a **snapshot in time**.  
 
 ---
 
 ## 🔎 Course Information
 
 **📚 Course:** Programming 1  
-**🏫 University:** Howest DAE – Digital Arts & Entertainment  
+**🏫 University:** Howest University of Applied Sciences - Digital Arts and Entertainment   
 **📍 Location:** Kortrijk, Belgium  
-**🗓️ Semester:** 2022 – First semester  
+**🗓️ Academic year:** 2022–23 | First semester  
 **🎓 Study load:** 9 credits  
 **⏱️ Total study time:** 270 hours  
 
@@ -29,12 +29,12 @@ It’s shared mainly for **archival and educational purposes** — to document m
 
 ## 👨‍🏫 Teaching Staff
 
-- **Co-ordinator:** Lies Pinket
-- **Other teaching staff:** Fries Boury, Flor Delombaerde, An Phu Dupont, Kevin Hoefman, Jef Stuyck
+- **Co-ordinator:** Lies Pinket  
+- **Other teaching staff:** Fries Boury, Flor Delombaerde, An Phu Dupont, Kevin Hoefman, Jef Stuyck  
 
 ---
 
-## 🎯 Learning Goals (LR09)
+## 🎯 Learning Goals
 
 > *The student Bachelor Digital Arts & Entertainment works in a problem-solving way, using context-specific programming skills and technical knowledge of underlying game technology, taking the imposed directives and technical limitations into account.*
 
@@ -90,7 +90,7 @@ These are standalone builds created for each milestone week.
 ## 🧠 Final Thoughts
 
 This repository isn’t about polished, production-ready code — it’s a record of progress, experiments, and problem-solving growth during the early stages of my game development journey.  
-If you’re a DAE student yourself: **good luck**, **keep building**, and **embrace the debugging chaos** 🧩🔥
+If you’re a DAE student yourself: **good luck**, **keep building**, and **embrace the debugging chaos** 🐛  
 
 ---
 
@@ -100,7 +100,8 @@ This repository is licensed under the **MIT License** — feel free to explore, 
 ---
 
 *Made with curiosity and too much coffee ☕  
-— Adam*
+— Ádám*
+
 
 
 
