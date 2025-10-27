@@ -29,8 +29,8 @@ It’s shared mainly for **archival and educational purposes** — to document m
 
 ## 👨‍🏫 Teaching Staff
 
-- **Co-ordinator:** Pinket Lies  
-- **Other teaching staff:** Boury Fries, Delombaerde Flor, Dupont An Phu, Hoefman Kevin, Stuyck Jef
+- **Co-ordinator:** Lies Pinket
+- **Other teaching staff:** Fries Boury, Flor Delombaerde, An Phu Dupont, Kevin Hoefman, Jef Stuyck
 
 ---
 
@@ -101,5 +101,6 @@ This repository is licensed under the **MIT License** — feel free to explore, 
 
 *Made with curiosity and too much coffee ☕  
 — Adam*
+
 
 
