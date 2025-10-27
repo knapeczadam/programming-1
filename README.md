@@ -5,7 +5,7 @@ Welcome to my **Programming 1** repository — a small archive of everything I b
 
 ---
 
-## 🗂️ About this repository
+## 🗄️ About this repository
 
 This repo contains all **lab exercises** and **weekly projects** created during the **Programming 1** course.  
 It’s shared mainly for **archival and educational purposes** — to document my learning journey in C++ and basic game programming.
@@ -16,9 +16,9 @@ It’s shared mainly for **archival and educational purposes** — to document m
 
 ---
 
-## 🧱 Course Information
+## 🔎 Course Information
 
-**📘 Course:** Programming 1  
+**📚 Course:** Programming 1  
 **🏫 University:** Howest DAE – Digital Arts & Entertainment  
 **📍 Location:** Kortrijk, Belgium  
 **🗓️ Semester:** 2022 – First semester  
@@ -66,7 +66,7 @@ It’s shared mainly for **archival and educational purposes** — to document m
 
 ---
 
-## 🔖 Repository Structure
+## 📂 Repository Structure
 
 - Each **week** has its **own branch**, e.g.  
   - `03` → Week 3  
@@ -94,13 +94,14 @@ If you’re a DAE student yourself: **good luck**, **keep building**, and **embr
 
 ---
 
-### 🪪 License
+### ⚖️ License
 This repository is licensed under the **MIT License** — feel free to explore, learn, or fork anything you find useful.
 
 ---
 
 *Made with curiosity and too much coffee ☕  
 — Adam*
+
 
 
 
