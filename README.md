@@ -1,4 +1,4 @@
-# 🎮 Programming 1
+# 🥚 Programming 1
 
 Hey there, fellow DAE student, curious visitor, or nostalgic programmer 👋  
 Welcome to my **Programming 1** repository — a small archive of everything I built during the **first semester (2022)** at **DAE**.  
@@ -101,6 +101,7 @@ This repository is licensed under the **MIT License** — feel free to explore, 
 
 *Made with curiosity and too much coffee ☕  
 — Ádám*
+
 
 
 
