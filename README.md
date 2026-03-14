@@ -96,14 +96,3 @@ If you’re a DAE student yourself: **good luck**, **keep building**, and **embr
 
 ### ⚖️ License
 This repository is licensed under the **MIT License** — feel free to explore, learn, or fork anything you find useful.
-
----
-
-*Made with curiosity and too much coffee ☕  
-— Ádám*
-
-
-
-
-
-
